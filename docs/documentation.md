@@ -1,12 +1,12 @@
 # Project Documentation
 
 ## Overview
-This is the documentation for our DevOps Git project.
+This is the documentation for our DevOps Git project demonstrating Git workflows and user authentication.
 
 ## Features
 - Version control with Git
 - Proper project structure
-- Documentation
+- User authentication system
+- Comprehensive documentation
 
-## Usage
-Run the application with: `python3 src/app.py`
+## Project Structure
